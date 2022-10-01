@@ -1,4 +1,4 @@
-# Data-Mining-Algorithms-Applying
+# Data Mining Playground
 In this repository I added some of my projects in which I applied data mining algorithms on some open source databases. The algorithms are listed below.
 
 * [Iris Dimentionality Reduction](https://github.com/kian79/Data-Mining-Algorithms-Applying/blob/main/README.md#iris-dimentionality-reduction)
